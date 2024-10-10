@@ -1,0 +1,27 @@
+{
+  "name": "github-user-cli",
+  "version": "1.0.0",
+  "description": "A github user activity cli",
+  "main": "index.js",
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolecodes/github-user-activity.git"
+  },
+  "keywords": [
+    "git",
+    "cli"
+  ],
+  "author": "wolecodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolecodes/github-user-activity/issues"
+  },
+  "homepage": "https://github.com/wolecodes/github-user-activity#readme"
+}
